@@ -13,7 +13,8 @@
 
 
 # Usage
-The source code was written using Matlab, with Financial Toolbox, Fuzzy Logic Toolbox and Global Optimization Toolbox
+The source code was written using Matlab, with Financial Toolbox, Fuzzy Logic Toolbox and Global Optimization Toolbox.
 
-For the TBH Algorithm experiment, run portfolio.m  
-For the RBBC Algorithm experiment, run portfolioETF.m
+- For the TBH Algorithm experiment, run portfolio.m  
+- For the RBBC Algorithm experiment, run portfolioETF.m
+
